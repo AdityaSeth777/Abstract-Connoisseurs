@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.alexjlockwood.twentyfortyeightcompose"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:5:5-21:19
+12        android:allowBackup="true"
+12-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0-alpha01] C:\Users\soumy\.gradle\caches\transforms-3\97de99c7958a091f24eb5fd028474841\transformed\core-1.5.0-alpha01\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:10:9-35
+19        android:theme="@style/AppTheme" >
+19-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity
+20-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:12:9-20:20
+21            android:name="com.abstractconno.twentyfortyeight.MainActivity"
+21-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:13:13-41
+22            android:label="@string/app_name"
+22-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:14:13-45
+23            android:theme="@style/AppTheme" >
+23-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:15:13-44
+24            <intent-filter>
+24-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:16:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:17:17-69
+25-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:17:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\soumy\Desktop\android-2048-compose\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30        <activity
+30-->[androidx.compose.ui:ui-tooling:1.0.0-alpha09] C:\Users\soumy\.gradle\caches\transforms-3\d5557fd616cf2690609ac57a0a379c2e\transformed\jetified-ui-tooling-1.0.0-alpha09\AndroidManifest.xml:25:9-27:39
+31            android:name="androidx.compose.ui.tooling.preview.PreviewActivity"
+31-->[androidx.compose.ui:ui-tooling:1.0.0-alpha09] C:\Users\soumy\.gradle\caches\transforms-3\d5557fd616cf2690609ac57a0a379c2e\transformed\jetified-ui-tooling-1.0.0-alpha09\AndroidManifest.xml:26:13-79
+32            android:exported="true" />
+32-->[androidx.compose.ui:ui-tooling:1.0.0-alpha09] C:\Users\soumy\.gradle\caches\transforms-3\d5557fd616cf2690609ac57a0a379c2e\transformed\jetified-ui-tooling-1.0.0-alpha09\AndroidManifest.xml:27:13-36
+33    </application>
+34
+35</manifest>
