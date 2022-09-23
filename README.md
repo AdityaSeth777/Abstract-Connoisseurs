@@ -22,7 +22,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Unlicense © Aditya Seth](https://github.com/AdityaSeth777/PCC-CS393/blob/main/License)
+[Unlicense © Aditya Seth](https://github.com/AdityaSeth777/Abstract-Connoisseurs/blob/main/License)
 
 ## What next?
 I will be working on adding more features like adding timers and local multiplaying scenario as well.
